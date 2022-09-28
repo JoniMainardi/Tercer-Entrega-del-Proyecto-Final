@@ -1,0 +1,97 @@
+#botonera img{
+    width: 150px;
+}
+
+/* clases de fondos */
+.bg-deeppink{
+    background-color: #794c4c;
+    color: white;
+
+}
+
+.bg-violet{
+    background: linear-gradient(to top, #24b354, rgb(28, 0, 128));
+}
+
+#redes img{
+    width: 30px;
+}
+
+
+section{
+	display: flex;
+	padding: 10px;
+	justify-content: space-between;
+}
+
+
+div{
+	color: black;
+	font-size: 2em;
+	border:solid 1px white;
+	border-radius: 5px;
+	margin: 30px;
+	height: 30vh;
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	animation-name: textAlpha;
+	animation-duration: 2s;
+}
+
+
+/* clases para los temas de hoy*/
+
+.linear-gradient{
+	background: linear-gradient(to top, #24b354, rgb(28, 0, 128));
+}
+
+.transform:hover{
+	
+}
+
+.rotate:hover{
+	
+}
+
+.scale:hover{
+	
+}
+
+.skew{
+	
+}
+
+@keyframes animateDiv{
+	
+}
+
+.animate{
+	
+}
+
+
+.transition{
+	
+}
+
+.transition:hover{
+	
+}
+
+@keyframes textAlpha{
+	
+}
+
+
+h3{
+	
+}
+
+button{
+	
+}
+
+button:hover{}
+
+
